@@ -1,0 +1,26 @@
+{
+  "name": "educational-course-portal-backend",
+  "version": "1.0.0",
+  "description": "Backend for Experiment 12 - Educational Course Portal with Node.js, Express, and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "crud",
+    "experiment-12"
+  ],
+  "author": "Antigravity",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "mongodb": "^6.10.0"
+  }
+}
+
